@@ -1,0 +1,31 @@
+Teach a robot how to drive:
+
+1. Locate the car.
+2. Unlock the car.
+
+Opening the door:
+3. Locate drivers door.
+4. Locate handle.
+5. Pull handle. 
+6. Stop pulling when door hits 45 degree angle.
+7. Let go of handle.
+8. Locate yourself.
+9. Position yourself at the opening of the 45 degree angle.
+
+Entering the car:
+11. Get into car and sit in drivers seat
+12. Close door
+
+Starting the car:
+12. If no button ignition then 
+13. Press right foot down on brake pedal.
+14. Insert key into ignition
+15. Turn key forward to start car.
+else
+16. Press right foot down on brake pedal
+17. Press ignition button
+
+Driving the car
+14. Check surroundings in the mirrors located outside the window for obstacles.
+15. Move shifter to Drive
+16. Press right foot on gas pedal. 

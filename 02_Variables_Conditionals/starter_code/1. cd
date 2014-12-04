@@ -1,0 +1,23 @@
+1. cd
+2. Git is a version control system. Github stores repositories by allowing you to publish them remotely.
+3. touch   git add <filename>
+4. Github repository is a specific bucket where you keep your files
+5. c
+
+add a repository to git
+mkdir quiz
+cd quiz
+ls
+touch quiz.rb
+ls
+git init
+git add quiz.rb
+git status
+git commit -m “adding quiz”
+git status
+
+
+master- the main branch that i have
+origin- the repository you are pushing into (nickname that you can find through rebose (the url))
+
+agile web development
