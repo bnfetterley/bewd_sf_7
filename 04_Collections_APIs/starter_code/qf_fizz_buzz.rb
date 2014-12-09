@@ -5,7 +5,23 @@ end
 
 
 def fizzbuzz(number)
+
+	if number % 3 == 0
+		puts "Fizz"
+	end
+
+	elsif number % 5 == 0
+		puts "Buzz"
+	end
+
+	elsif number % 5==0 && number % 3 == 0
+		puts "Fizzbuzz"
+	end
+
+else puts number
+
 end
+
 
 
 # Write a program that prints the numbers from 1 to 100. 
@@ -13,6 +29,10 @@ end
 # For numbers which are multiples of both three and five print “FizzBuzz”.
 #
 # Your code here
+
+
+
+
 
 
 # Tests
